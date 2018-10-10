@@ -12,7 +12,7 @@
 
 📗 [怎么安装软件](#软件安装)
 
-📕 或许写的不尽你意，如果关于本文你有什么问题或是什么建议，可以email to lingxing1017@gmail.com，我们一起探索前行
+📕 或许写的不尽你意，如果你有什么问题或是什么建议，可以email to lingxing1017@gmail.com或者[使用anydesk请求协助](./00anydesk协助.md)，我们一起探索前行
 
 
 ## Ubuntu安装
