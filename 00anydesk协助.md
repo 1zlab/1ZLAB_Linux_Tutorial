@@ -14,7 +14,7 @@
 
 #### 反馈
 
-📕 或许写的不尽你意，如果关于本文你有什么问题或是什么建议，可以 email to lingxing1017@gmail.com，我们一起探索前行
+📕 或许写的不尽你意，如果关于本文你有什么问题或是什么建议，可以 Email to: lingxing1017@gmail.com，我们一起探索前行
 
 ## anydesk是什么
 
